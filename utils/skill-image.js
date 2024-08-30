@@ -72,11 +72,25 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
-
+import solana from '/public/svg/skills/solana-sol-logo.svg'
+import rust from '/public/svg/skills/rust.svg'
+import solidity from '/public/svg/skills/solidity.svg'
+import ethereum from '/public/svg/skills/ethereum.svg'
+// import bitcoin from '/public/svg/skiils/bitcoin.svg'
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
+    // case 'bitcoin':
+    //   return bitcoin;
+    case 'ethereum':
+      return ethereum;
+    case 'solidity':
+      return solidity;
+    case 'rust':
+      return rust;
+    case 'solana':
+      return solana;
     case 'gcp':
       return gcp;
     case 'html':
