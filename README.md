@@ -1,10 +1,10 @@
 <p align="center" width="100%">
-    <img height="100" src="https://github.com/super-high">
+    <img height="100" src="https://github.com/br2sin">
 </p>
 
 ---
 
-# [Built Portfolio With GitHub ](https://github.com/super-high)
+# [Built Portfolio With GitHub ](https://github.com/br2sin)
 
 ---
 
@@ -101,16 +101,16 @@ Goto [emailjs.com](https://www.emailjs.com/) and create a new account for the ma
 Eg:
 
 ```env
-NEXT_PUBLIC_EMAILJS_SERVICE_ID =
-NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
-NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
+NEXT_PUBLIC_EMAILJS_SERVICE_ID = service_7wpg6nq
+NEXT_PUBLIC_EMAILJS_TEMPLATE_ID = template_2t79v4v
+NEXT_PUBLIC_EMAILJS_PUBLIC_KEY = wQydCbicHgkVN6abC
 NEXT_PUBLIC_GTM = # For site analytics
 NEXT_PUBLIC_APP_URL = "http://127.0.0.1:3000"
 NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/super-high).
+### Then, Customize data in the `utils/data` [folder](https://github.com/br2sin).
 
 Eg:
 
@@ -118,11 +118,11 @@ Eg:
 export const personalData = {
   name: "Daniel Bonar",
   profile: "/profile.png",
-  designation: "Blockchain & Full-Stack Developer",
+  designation: "Blockchain Developer",
   description: "My name is DANIEL BONAR....",
   email: "monkeydbresin@gmail.com",
-  address: "ul. Piękna 4, 00-549 Warsaw, Poland",
-  github: "https://github.com/super-high",
+  address: "Warsaw, Poland",
+  github: "https://github.com/br2sin",
   devUsername: "said7388",
   resume: "...",
 };

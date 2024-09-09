@@ -6,20 +6,19 @@ export const skillsData = [
   'React',
   'Next JS',
   'Tailwind',
+  'C++',
   'MongoDB',
   'Rust',
   'Solidity',
   'Ethereum',
   'Solana',
-  // 'Bitcoin',
   'MySQL',
-  'PostgreSQL',
   'Git',
   'Figma',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
-// Couldn't find the required skills? Raise an issue on github at https://github.com/super-high
+// Couldn't find the required skills? Raise an issue on github at https://github.com/br2sin
 
 
 // AVAILABLE SKILLS

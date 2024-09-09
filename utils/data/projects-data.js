@@ -36,13 +36,13 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: 'SecureGuard',
-        description: "Developed a blockchain-based security protocol designed to protect decentralized applications (dApps) against cyber threats. The project uses advanced cryptographic algorithms and secure coding practices to mitigate risks such as DDoS attacks and phishing. Implemented monitoring and automated response systems using Golang and Kubernetes, deployed on AWS.",
-        tools: ['Solidity', 'Solana SDK', 'Golang', 'Kubernetes', 'AWS', 'React'],
+        name: 'Solana Token Manger',
+        description: "I creates solutions that help founders launch projects efficiently on Web3. We are going to empower everyone who wants to create on Web3, no matter who you are. Helping founders create in web3.",
+        tools: ['Web3.js', 'Next.js', 'TypeScript'],
         code: '',
         demo: '',
         image: ayla,
-        role: 'Cybersecurity Engineer',
+        role: 'Senior Developer',
     }
 ];
 
