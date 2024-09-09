@@ -123,7 +123,7 @@ export const personalData = {
   email: "monkeydbresin@gmail.com",
   address: "Warsaw, Poland",
   github: "https://github.com/br2sin",
-  devUsername: "said7388",
+  devUsername: "br2sin",
   resume: "...",
 };
 ```
